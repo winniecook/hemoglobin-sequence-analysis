@@ -6,7 +6,7 @@ from io import StringIO
 import gzip
 
 # Set your email for Entrez
-Entrez.email = "K24003968@kcl.ac.uk"
+Entrez.email = "your@email.com."
 
 
 # Defining a function to fetch and save sequences
